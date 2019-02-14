@@ -1,0 +1,11 @@
+.nome{
+    color:white;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: large;
+    background-color: grey;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    padding-left: 100%;
+    padding-right: 100%;
+}

@@ -1,0 +1,22 @@
+#container{
+    height: 72;
+    padding-top: 20;
+    padding-left: 12;
+    padding-right: 12;
+    flex-direction: row;
+    background-color: black
+}
+
+button{
+    background-color: black;
+    border: none;
+}
+
+.message{
+    flex: 1;
+    text-align: 'center';
+    color: 'rgba(255, 255, 255, 0.72)';
+    font-weight: 'bold';
+    font-size: 10;
+    background-color: black
+}
